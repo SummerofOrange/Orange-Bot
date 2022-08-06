@@ -1,7 +1,7 @@
 # Orange-Bot
 本机器人为原神群内专属机器人，通过接受指令来执行快捷功能<br>
 *机器人指令以井号（**#**） 开头，后面接相应的操作命令*<br>
-*使用本机器人需要绑定你的**uid**，进阶玩法可以[绑定cookies](docs.qq.com/doc/DUWNVQVFTU3liTVlO)*
+*使用本机器人需要绑定你的**uid**，进阶玩法可以[绑定cookies](https://docs.qq.com/doc/DUWNVQVFTU3liTVlO)*
 
 ## 绑定uid
 > #绑定+uid<br>
